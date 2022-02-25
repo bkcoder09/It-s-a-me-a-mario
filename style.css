@@ -39,3 +39,9 @@
 .modal-dialog{
     width: 90%
 }
+
+video{
+    background: url('game_console.png');
+    background-size:cover;
+    padding:25px;
+}
